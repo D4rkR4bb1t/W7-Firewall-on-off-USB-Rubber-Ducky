@@ -1,24 +1,6 @@
 REM Turn on or off firewall for the current profile
 
-REM Aviso de inicializacao
-
-DELAY 1000
-GUI r
-DELAY 500
-STRING notepad
-DELAY 500
-ENTER
-DELAY 500
-STRING Aviso de inicializacao
-DELAY 500
-ALT F4
-DELAY 500
-RIGHT
-DELAY 500
-ENTER
-
-
-REM Iniciando o CMD como Administrador
+REM Starting the CMD in Administrator mode
 
 DELAY 500
 CONTROL ESC
@@ -37,7 +19,7 @@ LEFT
 DELAY 500
 ENTER
 
-REM Desabilitando o firewall
+REM Disabling the firewall
 
 DELAY 500
 STRING netsh advfirewall set  currentprofile state off
