@@ -20,7 +20,6 @@ RIGHT
 DELAY 500
 ENTER
 
-
 REM Iniciando o CMD como Administrador
 
 DELAY 500
