@@ -1,6 +1,9 @@
 REM Turn off firewall for the current profile
 REM Author: D4kR4bb1t
 
+REM let the HID enumerate
+DELAY 2000
+
 REM Starting the CMD in Administrator mode
 
 DELAY 500
