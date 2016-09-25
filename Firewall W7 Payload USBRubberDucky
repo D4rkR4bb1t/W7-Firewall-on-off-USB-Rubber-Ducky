@@ -1,4 +1,4 @@
-REM Turn off firewall for the current profile
+REM Turn off the Windows firewall for the current profile
 REM Author: D4kR4bb1t
 
 REM let the HID enumerate
