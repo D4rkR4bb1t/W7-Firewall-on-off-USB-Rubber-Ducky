@@ -1,7 +1,7 @@
 REM Turn off the Windows firewall for the current profile
 REM Author: D4kR4bb1t
 
-REM let the HID enumerate
+REM Wait to the HID enumerate all devices
 DELAY 2000
 
 REM Starting the CMD in Administrator mode
